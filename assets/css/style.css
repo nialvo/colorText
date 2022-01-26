@@ -1,0 +1,19 @@
+
+
+#respArea{
+
+    width:328px;
+    
+    display:flex;
+    flex:wrap;
+}
+
+.pos{
+    color:green;
+}
+.neut{
+    color: rgb(100, 96, 96);
+}
+.neg{
+    color:red;
+}
