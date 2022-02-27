@@ -8,7 +8,7 @@ Try copy pasting whole speeches and compare you favorite politicians.<br>
 
 Go try it out here:
 
-<a href="https://nialvo.github.io/colorText/" target="_blank">colorText<a><br>
+<a href="https://nialvo.github.io/colorText/" rel="noopener noreferrer" target="_blank">colorText<a><br>
 
 The sentimental analysis is performed by SENTIM-API, which you may find at the link below:<br>
 
